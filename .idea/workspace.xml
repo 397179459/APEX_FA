@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b475d2a-1b9e-4380-bc5a-53b885f34958" name="Default Changelist" comment="5/30">
+    <list default="true" id="2b475d2a-1b9e-4380-bc5a-53b885f34958" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.数据库设计/2.2表字段定义.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.数据库设计/2.2表字段定义.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,24 +24,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1035" />
+          <entry key="md" value="1566" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1035" />
+          <entry key="Markdown" value="1566" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="5" />
+          <entry key="md" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="8" />
         </counts>
       </usages-collector>
     </session>
@@ -49,11 +49,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.数据库设计/2.1表名定义.md">
+        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.1图例基本概念.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <first_editor relative-caret-position="84">
+                <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,11 +61,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.数据库设计/2.2表字段定义.md">
+        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="294">
-                <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <first_editor relative-caret-position="63">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,6 +83,8 @@
         <option value="$PROJECT_DIR$/1.更新日志/更新.md" />
         <option value="$PROJECT_DIR$/2.数据库设计/2.1表名定义.md" />
         <option value="$PROJECT_DIR$/2.数据库设计/2.2表字段定义.md" />
+        <option value="$PROJECT_DIR$/3.APEX图例的使用/3.1图例基本概念.md" />
+        <option value="$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md" />
       </list>
     </option>
   </component>
@@ -92,7 +94,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="525" />
     <option name="width" value="848" />
     <option name="height" value="775" />
@@ -119,6 +121,11 @@
               <item name="APEX-SKILL" type="b2602c69:ProjectViewProjectNode" />
               <item name="APEX-SKILL" type="462c0819:PsiDirectoryNode" />
               <item name="2.数据库设计" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APEX-SKILL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APEX-SKILL" type="462c0819:PsiDirectoryNode" />
+              <item name="3.APEX图例的使用" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,14 +219,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559196586442</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="5/30">
+      <created>1559196652143</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559196652143</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5/30">
+      <created>1559197659985</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559197659985</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="525" y="0" width="848" height="775" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22335026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,6 +284,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.数据库设计/2.2表字段定义.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="294">
+            <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.数据库设计/2.1表名定义.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -273,11 +304,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.数据库设计/2.2表字段定义.md">
+    <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.1图例基本概念.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="294">
-            <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="63">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
