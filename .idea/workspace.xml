@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b475d2a-1b9e-4380-bc5a-53b885f34958" name="Default Changelist" comment="">
+    <list default="true" id="2b475d2a-1b9e-4380-bc5a-53b885f34958" name="Default Changelist" comment="5/30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.APEX图例的使用/3.3条形图.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.APEX图例的使用/3.3折线图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.APEX图例的使用/3.4雷达图.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.APEX图例的使用/3.4雷达图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.APEX图例的使用/3.5圆环图.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.APEX图例的使用/3.5圆环图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.APEX图例的使用/3.6报表展示.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.APEX图例的使用/3.6报表展示.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,24 +28,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1566" />
+          <entry key="md" value="2359" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1566" />
+          <entry key="Markdown" value="2359" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="8" />
+          <entry key="md" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="8" />
+          <entry key="Markdown" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -52,8 +56,56 @@
         <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.1图例基本概念.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="63">
+                <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="84">
-                <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+                <caret line="4" column="76" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="76" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.3折线图.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="42">
+                <caret line="2" column="78" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="78" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.4雷达图.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="42">
+                <caret line="2" column="16" lean-forward="true" selection-end-line="3" selection-end-column="76" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.5圆环图.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="63">
+                <caret line="3" column="76" lean-forward="true" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,11 +113,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md">
+        <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.6报表展示.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <first_editor relative-caret-position="42">
+                <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
               </first_editor>
               <second_editor />
             </state>
@@ -85,6 +137,10 @@
         <option value="$PROJECT_DIR$/2.数据库设计/2.2表字段定义.md" />
         <option value="$PROJECT_DIR$/3.APEX图例的使用/3.1图例基本概念.md" />
         <option value="$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md" />
+        <option value="$PROJECT_DIR$/3.APEX图例的使用/3.3折线图.md" />
+        <option value="$PROJECT_DIR$/3.APEX图例的使用/3.4雷达图.md" />
+        <option value="$PROJECT_DIR$/3.APEX图例的使用/3.5圆环图.md" />
+        <option value="$PROJECT_DIR$/3.APEX图例的使用/3.6报表展示.md" />
       </list>
     </option>
   </component>
@@ -233,14 +289,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559197659985</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="5/30">
+      <created>1559197984272</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559197984272</updated>
+    </task>
+    <task id="LOCAL-00012" summary="5/30">
+      <created>1559198550513</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559198550513</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -307,8 +377,8 @@
     <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.1图例基本概念.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <first_editor relative-caret-position="63">
+            <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
           </first_editor>
           <second_editor />
         </state>
@@ -317,8 +387,48 @@
     <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.2柱状图.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="76" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.3折线图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="78" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="78" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.4雷达图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="16" lean-forward="true" selection-end-line="3" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.5圆环图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="63">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <caret line="3" column="76" lean-forward="true" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.APEX图例的使用/3.6报表展示.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
           </first_editor>
           <second_editor />
         </state>
