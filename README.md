@@ -48,3 +48,11 @@
     * [5.2 区域选择器](https://github.com/397179459/APEX_FA/blob/master/5.%E4%B8%BB%E9%A1%B5%E5%8D%A1%E7%89%87/5.2%E5%8C%BA%E5%9F%9F%E9%80%89%E6%8B%A9%E5%99%A8%E4%BD%BF%E7%94%A8.md)
 6. [其他](https://github.com/397179459/APEX_FA/tree/master/6.%E5%85%B6%E4%BB%96)
     * [6.1 用户权限](https://github.com/397179459/APEX_FA/blob/master/6.%E5%85%B6%E4%BB%96/6.1%E6%8C%87%E5%AE%9A%E7%94%A8%E6%88%B7%E8%AE%BE%E7%BD%AE%E6%9D%83%E9%99%90.md)
+7. [ETL_KETTLE](https://github.com/397179459/APEX_FA/tree/master/7.ETL_kettle)
+    * [7.1 kettle](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.1kettle.md)
+    * [7.2 基本操作](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
+    * 7.3 实例
+        * [7.3.1 直接输出](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.3.1%E5%AE%9E%E4%BE%8B_%E7%9B%B4%E6%8E%A5%E8%BE%93%E5%87%BA.md)
+        * [7.3.2 插入更新](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.3.2%E5%AE%9E%E4%BE%8B_%E6%8F%92%E5%85%A5%E6%9B%B4%E6%96%B0.md)
+        * [7.3.3 复杂处理](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.3.4%E5%AE%9E%E4%BE%8B_%E5%A4%8D%E6%9D%82%E5%A4%84%E7%90%86.md)
+    * [7.4 性能优化](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.4%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
