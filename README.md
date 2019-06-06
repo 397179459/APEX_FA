@@ -51,7 +51,7 @@
 7. [ETL_KETTLE](https://github.com/397179459/APEX_FA/tree/master/7.ETL_kettle)
     * [7.1 kettle](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.1kettle.md)
     * [7.2 基本操作](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
-    * 7.3 实例
+    * [7.3 实例](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.3.1%E5%AE%9E%E4%BE%8B_%E7%9B%B4%E6%8E%A5%E8%BE%93%E5%87%BA.md)
         * [7.3.1 直接输出](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.3.1%E5%AE%9E%E4%BE%8B_%E7%9B%B4%E6%8E%A5%E8%BE%93%E5%87%BA.md)
         * [7.3.2 插入更新](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.3.2%E5%AE%9E%E4%BE%8B_%E6%8F%92%E5%85%A5%E6%9B%B4%E6%96%B0.md)
         * [7.3.3 复杂处理](https://github.com/397179459/APEX_FA/blob/master/7.ETL_kettle/7.3.3%E5%AE%9E%E4%BE%8B_%E5%A4%8D%E6%9D%82%E5%A4%84%E7%90%86.md)
