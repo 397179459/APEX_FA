@@ -1,6 +1,6 @@
 # APEX_FA
 
-[](https://img.shields.io/badge/author-%E7%8E%8B%20%E7%A3%8A-blue.svg)       [](https://img.shields.io/github/commit-activity/y/397179459/APEX_FA.svg)
+![](https://img.shields.io/badge/author-%E7%8E%8B%20%E7%A3%8A-red.svg)   &ensp; ![](https://img.shields.io/github/commit-activity/y/397179459/APEX_FA.svg)
 1. [更新日志](https://github.com/397179459/APEX_FA/blob/master/1.%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/%E6%9B%B4%E6%96%B0.md)
 2. [数据库设计](https://github.com/397179459/APEX_FA/tree/master/2.%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1)
     * [2.1 表名定义](https://github.com/397179459/APEX_FA/blob/master/2.%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1/2.1%E8%A1%A8%E5%90%8D%E5%AE%9A%E4%B9%89.md)
