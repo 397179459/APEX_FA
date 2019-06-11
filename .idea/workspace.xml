@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b475d2a-1b9e-4380-bc5a-53b885f34958" name="Default Changelist" comment="">
+    <list default="true" id="2b475d2a-1b9e-4380-bc5a-53b885f34958" name="Default Changelist" comment="19/6/11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.具体实现/4.10开发文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.具体实现/4.10开发文档.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +29,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="18432" />
+          <entry key="md" value="18460" />
           <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="Markdown" value="18411" />
+          <entry key="Markdown" value="18439" />
           <entry key="PLAIN_TEXT" value="21" />
           <entry key="Python" value="9" />
           <entry key="SQL" value="10" />
@@ -44,12 +44,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="43" />
+          <entry key="md" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="43" />
+          <entry key="Markdown" value="44" />
         </counts>
       </usages-collector>
     </session>
@@ -116,12 +116,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="84">
                 <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.具体实现/4.10开发文档.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="273">
+                <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,7 +172,6 @@
         <option value="$PROJECT_DIR$/4.具体实现/4.6不断进步.md" />
         <option value="$PROJECT_DIR$/4.具体实现/4.8过程激励.md" />
         <option value="$PROJECT_DIR$/4.具体实现/4.9培训公告.md" />
-        <option value="$PROJECT_DIR$/4.具体实现/4.10开发文档.md" />
         <option value="$PROJECT_DIR$/5.主页卡片/5.1卡片使用.md" />
         <option value="$PROJECT_DIR$/5.主页卡片/5.2区域选择器使用.md" />
         <option value="$PROJECT_DIR$/6.其他/6.1指定用户设置权限.md" />
@@ -172,6 +183,7 @@
         <option value="$PROJECT_DIR$/7.ETL_kettle/7.4性能优化.md" />
         <option value="$PROJECT_DIR$/7.ETL_kettle/7.3.3实例_复杂处理.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/4.具体实现/4.10开发文档.md" />
       </list>
     </option>
   </component>
@@ -204,7 +216,18 @@
             <path>
               <item name="APEX-SKILL" type="b2602c69:ProjectViewProjectNode" />
               <item name="APEX-SKILL" type="462c0819:PsiDirectoryNode" />
+              <item name="4.具体实现" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APEX-SKILL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APEX-SKILL" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APEX-SKILL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APEX-SKILL" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="4.detil_img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,20 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559182989976</updated>
-    </task>
-    <task id="LOCAL-00002" summary="5/30">
-      <created>1559188489663</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1559188489663</updated>
-    </task>
-    <task id="LOCAL-00003" summary="5/30">
-      <created>1559189123605</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1559189123605</updated>
     </task>
     <task id="LOCAL-00004" summary="5/30">
       <created>1559189662267</created>
@@ -584,7 +593,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560232797060</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="19/6/11">
+      <created>1560232896751</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1560232896751</updated>
+    </task>
+    <task id="LOCAL-00052" summary="19/6/11">
+      <created>1560233344773</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1560233344773</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -735,16 +758,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="42">
             <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="77" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.具体实现/4.10开发文档.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="273">
-            <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -915,6 +928,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="84">
             <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.具体实现/4.10开发文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="273">
+            <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
