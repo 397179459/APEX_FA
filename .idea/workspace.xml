@@ -29,15 +29,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="18425" />
-          <entry key="txt" value="19" />
+          <entry key="md" value="18432" />
+          <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="Markdown" value="18404" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Markdown" value="18411" />
+          <entry key="PLAIN_TEXT" value="21" />
           <entry key="Python" value="9" />
           <entry key="SQL" value="10" />
         </counts>
@@ -120,8 +120,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <first_editor relative-caret-position="84">
+                <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
               </first_editor>
               <second_editor />
             </state>
@@ -201,6 +201,11 @@
               <item name="APEX-SKILL" type="b2602c69:ProjectViewProjectNode" />
               <item name="APEX-SKILL" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="APEX-SKILL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APEX-SKILL" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -235,13 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559182989976</updated>
-    </task>
-    <task id="LOCAL-00001" summary="5/30">
-      <created>1559188198550</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1559188198550</updated>
     </task>
     <task id="LOCAL-00002" summary="5/30">
       <created>1559188489663</created>
@@ -572,7 +570,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559792831962</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="19/6/6">
+      <created>1560232680511</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1560232680512</updated>
+    </task>
+    <task id="LOCAL-00050" summary="19/6/11">
+      <created>1560232797059</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1560232797060</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -614,7 +626,8 @@
     <MESSAGE value="19/6/3" />
     <MESSAGE value="19/6/5" />
     <MESSAGE value="19/6/6" />
-    <option name="LAST_COMMIT_MESSAGE" value="19/6/6" />
+    <MESSAGE value="19/6/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="19/6/11" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1.更新日志/更新.md">
@@ -900,8 +913,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
           </first_editor>
           <second_editor />
         </state>
