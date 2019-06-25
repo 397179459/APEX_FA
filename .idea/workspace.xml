@@ -61,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+              <first_editor relative-caret-position="273">
+                <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
               </first_editor>
               <second_editor />
             </state>
@@ -196,20 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559182989976</updated>
-    </task>
-    <task id="LOCAL-00006" summary="5/30">
-      <created>1559196384249</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1559196384249</updated>
-    </task>
-    <task id="LOCAL-00007" summary="5/30">
-      <created>1559196532187</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1559196532187</updated>
     </task>
     <task id="LOCAL-00008" summary="5/30">
       <created>1559196586442</created>
@@ -540,14 +526,28 @@
       <option name="project" value="LOCAL" />
       <updated>1561434498557</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="19/6/25">
+      <created>1561435008017</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1561435008017</updated>
+    </task>
+    <task id="LOCAL-00056" summary="19/6/25">
+      <created>1561435170325</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1561435170325</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14179105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12313433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -870,8 +870,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+          <first_editor relative-caret-position="273">
+            <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
           </first_editor>
           <second_editor />
         </state>
