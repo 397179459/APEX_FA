@@ -43,7 +43,7 @@
         * 4.7.1 选择框
         * 4.7.2 个人图表
         * 4.7.3 个人报表
-    * [4.8 过程激励](https://github.com/397179459/APEX_FA/blob/master/4.%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0/4.8%E8%BF%87%E7%A8%8B%E6%BF%80%E5%8A%B1.md)
+    * [4.8 过程激励&技能树](https://github.com/397179459/APEX_FA/blob/master/4.%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0/4.8%E8%BF%87%E7%A8%8B%E6%BF%80%E5%8A%B1.md)
     * [4.9 培训公告](https://github.com/397179459/APEX_FA/blob/master/4.%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0/4.9%E5%9F%B9%E8%AE%AD%E5%85%AC%E5%91%8A.md)
     * [4.10 开发文档](https://github.com/397179459/APEX_FA/blob/master/4.%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0/4.10%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3.md)
 5. [主页卡片](https://github.com/397179459/APEX_FA/tree/master/5.%E4%B8%BB%E9%A1%B5%E5%8D%A1%E7%89%87)
