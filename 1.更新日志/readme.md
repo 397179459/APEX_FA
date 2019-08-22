@@ -2,6 +2,26 @@
 
 #### 记录更新日志
 
+- 2019/8/22 
+
+  **小坑：有个语句需要注意，神坑。**
+
+  ```sql
+  SUM(CASE 
+      WHEN STATUS = '掌握' THEN 1 
+      ELSE 0 
+      END
+     ) NOW
+  --上面的这种写法现在有问题，需要用下面这种形式,
+  SUM(CASE STATUS 
+      WHEN '掌握' THEN 1 
+      ELSE 0 
+      END
+     ) NOW
+  ```
+
+  
+
 * 2019/7/21 
 
     * 增加技能树，主要用到`D3 Collapsible Tree Chart`插件
